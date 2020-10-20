@@ -1,0 +1,52 @@
+﻿<Window x:Class="WpfApp2_hraZivota.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2_hraZivota"
+        mc:Ignorable="d"
+        Title="Hra života" WindowState="Maximized" Width="1000" Height="598" WindowStyle="None">
+    <Grid Name="GRGrid">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="3"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="75"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <Grid Name="GRHead" Grid.Row="0" Grid.ColumnSpan="3" Background="Gray">
+            <Label Content="Hra života" HorizontalAlignment="Center" Margin="10,10,9.6,10" VerticalAlignment="Center" Height="80" Width="774" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontSize="43" Foreground="White" FontWeight="Bold"/>
+            <Button Name="BTCloseApp" Content="x" HorizontalAlignment="Right" Margin="0,10,10
+                    ,0" VerticalAlignment="Top" Width="28" Height="28" VerticalContentAlignment="Center" Padding="1,0,1,3" Background="Red" Foreground="White" Click="BTCloseApp_Click" FontSize="16" FontWeight="Bold"/>
+        </Grid>
+        <Grid Name="GRNastaveni" Grid.Row="1" Grid.RowSpan="2">
+            <Button Name="BTStop" Content="Stop" HorizontalAlignment="Center" Margin="50,10,50,0" VerticalAlignment="Top" Width="100" Height="35" Click="BTStop_Click" Background="Red"/>
+            <Button Name="BTStart" Content="Start" HorizontalAlignment="Center" Margin="50,10,50,0" VerticalAlignment="Top" Width="100" Click="BTStart_Click" Height="35" Background="LimeGreen"/>
+            <Button Name="BTNahrat" Content="Nahrát" HorizontalAlignment="Center" Margin="50,55,50,0" VerticalAlignment="Top" Width="100" Height="35" Click="BTNahrat_Click"/>
+            <Button Name="BTUlozit" Content="Uložit" HorizontalAlignment="Center" Margin="50,100,50,0" VerticalAlignment="Top" Width="100" Height="35" Click="BTUlozit_Click"/>
+            <Label Content="Počet opakování" HorizontalAlignment="Center" Margin="0,0,0,55" VerticalAlignment="Bottom" Width="99" Padding="0,5" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <Label Name="LBOpakovani" Content="0" HorizontalAlignment="Center" Margin="0,0,0,35" VerticalAlignment="Bottom" Width="98" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="18" Padding="5,0"/>
+            <Button Name="BTNahodnaGen" Content="Náhodná generace" HorizontalAlignment="Center" Margin="25,274,25,0" VerticalAlignment="Top" Width="150" Height="35" Click="BTNahodnaGen_Click"/>
+            <Label Content="Počet buňek:" HorizontalAlignment="Left" Margin="25,314,0,0" VerticalAlignment="Top" Height="23" Width="70" VerticalContentAlignment="Center" Padding="0"/>
+            <TextBox Name="TBPocGenBunek" HorizontalAlignment="Left" Height="23" Margin="95,315,0,0" TextWrapping="Wrap" Text="500" VerticalAlignment="Top" Width="80" VerticalContentAlignment="Center"/>
+            <Button Name="BTVynulovatOpakovani" Content="Vynulovat" HorizontalAlignment="Center" Height="22" Margin="0,0,0,12" VerticalAlignment="Bottom" Width="98" Click="BTVynulovatOpakovani_Click"/>
+            <Button Name="BTVycistitPole" Content="Vymazat buňky" HorizontalAlignment="Center" Margin="25,368,25,0" VerticalAlignment="Top" Width="150" Height="35" Click="BTVycistitPole_Click"/>
+
+            <Button Name="BTNastavInterval" Content="Nastav časovač" HorizontalAlignment="Center" Margin="25,158,25,0" VerticalAlignment="Top" Width="150" Height="35" Click="BTNastavInterval_Click"/>
+            <Label Content="Interval (ms):" HorizontalAlignment="Left" Margin="25,199,0,0" VerticalAlignment="Top" Height="23" Width="70" VerticalContentAlignment="Center" Padding="0"/>
+            <TextBox Name="TBIntervalCasovac" HorizontalAlignment="Left" Height="23" Margin="95,200,0,0" TextWrapping="Wrap" Text="500" VerticalAlignment="Top" Width="80" VerticalContentAlignment="Center"/>
+            
+            <Label Content="Aktualní (ms):" HorizontalAlignment="Left" Margin="25,226,0,0" VerticalAlignment="Top" Height="23" Width="76" VerticalContentAlignment="Center" Padding="0"/>
+            <Label Name="LBAktualniInterval" Content="500" HorizontalAlignment="Left" Height="25" Margin="95,224,0,0"  VerticalAlignment="Top" Width="80" VerticalContentAlignment="Center"/>
+            <Rectangle Name="RECSkrytiNast" Fill="White" HorizontalAlignment="Left" Height="280" Margin="10,151,0,0" Stroke="White" VerticalAlignment="Top" Width="180" Visibility="Hidden"/>
+
+        </Grid>
+        <Grid Name="GRHraciPole" Grid.Row="2" Grid.Column="2" Loaded="GRHraciPole_Loaded"/>
+        <Grid Grid.Row="1" Grid.Column="1" Background="Gray"></Grid>
+
+
+    </Grid>
+</Window>

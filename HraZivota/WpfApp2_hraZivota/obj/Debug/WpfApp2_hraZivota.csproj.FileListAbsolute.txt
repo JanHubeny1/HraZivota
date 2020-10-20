@@ -1,0 +1,43 @@
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.exe.config
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.exe
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.pdb
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.csprojAssemblyReference.cache
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\MainWindow.g.cs
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\App.g.cs
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota_MarkupCompile.cache
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota_MarkupCompile.lref
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\MainWindow.baml
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.g.resources
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.Properties.Resources.resources
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.csproj.GenerateResource.cache
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.exe
+E:\Moje\Visual Studio\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.pdb
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.exe.config
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.exe
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.pdb
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.csprojAssemblyReference.cache
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\MainWindow.g.cs
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\App.g.cs
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota_MarkupCompile.cache
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota_MarkupCompile.lref
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\MainWindow.baml
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.g.resources
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.Properties.Resources.resources
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.csproj.GenerateResource.cache
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.exe
+D:\Users\Jan Hubený\Desktop\WpfApp2_hraZivota\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.pdb
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.exe.config
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.exe
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\bin\Debug\WpfApp2_hraZivota.pdb
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.csprojAssemblyReference.cache
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\MainWindow.g.cs
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\App.g.cs
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota_MarkupCompile.cache
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota_MarkupCompile.lref
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\MainWindow.baml
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.g.resources
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.Properties.Resources.resources
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.csproj.GenerateResource.cache
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.exe
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.pdb
+E:\Moje\Visual Studio\Hra života (done)\WpfApp2_hraZivota\obj\Debug\WpfApp2_hraZivota.csproj.CoreCompileInputs.cache
